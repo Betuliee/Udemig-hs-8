@@ -1,17 +1,20 @@
 <h1> Udemig App</h1>
 
-<h2> Içerik </h2>
+<h2>İçerik</h2>
 
 -Anasayfa
+
 -Hakkimizda
--Iletisim
+
+-İletişim
+
 -Kurslar
 
-<h2>Kullanilan Teknolojiler</h2>
+<h2>Kullanılan Teknolojiler</h2>
 
--cdn için: <a href="https://cdnjs.com/"></a> 
+-cdn için:<a href="https://cdnjs.com/">https://cdnjs.com/</a> 
 
--icon: <a href="https://fontawesome.com/"></a> 
+-icon:<a href="https://fontawesome.com/">https://fontawesome.com</a> 
 
 <h2>Proje Gif </h2>
 
